@@ -1,7 +1,7 @@
 🛍️ Diginitas — E-commerce Mobile
 
 Um aplicativo de e-commerce desenvolvido com React Native e Expo, com design moderno, carrinho funcional, menu lateral, e uma experiência fluida e responsiva.
-O LeoStore foi criado com foco em performance, usabilidade e experiência do usuário, permitindo fácil navegação entre produtos e uma interface simples e intuitiva.
+A diginitas foi criada com foco em performance, usabilidade e experiência do usuário, permitindo fácil navegação entre produtos e uma interface simples e intuitiva.
 
 🚀 Funcionalidades
 

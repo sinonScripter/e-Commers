@@ -44,6 +44,16 @@ StyleSheet — estilização nativa e leve
 https://github.com/user-attachments/assets/6c64cb34-c972-48a6-b15d-f3161b7827bb
 
 
+🚨🚨🚨🚨🚨🚨🚨 ATENÇÃO 🚨🚨🚨🚨🚨🚨🚨
 
+🚀 Funcionalidades Futuras
 
+Integração com o Stripe para processamento de pagamentos de forma segura e eficiente 💳
 
+Sistema de autenticação de usuários
+
+Histórico de compras e pedidos
+
+Notificações em tempo real
+
+Tela de perfil personalizada

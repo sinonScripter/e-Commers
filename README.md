@@ -34,8 +34,7 @@ FlatList — renderização otimizada de listas de produtos
 StyleSheet — estilização nativa e leve
 
 
-<img width="298" height="643" alt="Captura de Tela 2025-10-22 às 15 19 25" src="https://github.com/user-attachments/assets/c8000081-f4c8-43e2-ba4a-b3cad8c20fa1" />
-<img width="298" height="643" alt="Captura de Tela 2025-10-22 às 15 19 33" src="https://github.com/user-attachments/assets/cb8ff7a6-092e-4b5b-9486-8e0eff42290e" />
+
 <img width="298" height="643" alt="Captura de Tela 2025-10-22 às 15 16 45" src="https://github.com/user-attachments/assets/afc17d79-c9f3-4507-b523-dbc8edce706a" />
 
 
